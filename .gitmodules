@@ -1,9 +1,0 @@
-[submodule "client-gateway"]
-	path = client-gateway
-	url = https://github.com/144Walker/client-gateway.git
-[submodule "products-ms"]
-	path = products-ms
-	url = https://github.com/144Walker/products-ms.git
-[submodule "orders-ms"]
-	path = orders-ms
-	url = https://github.com/144Walker/orders-ms.git
